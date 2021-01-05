@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-locserviceamplify-dev-142259-authRole",
+      "UnauthRoleArn": "arn:aws:iam::611812630693:role/amplify-locserviceamplify-dev-142259-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::611812630693:role/amplify-locserviceamplify-dev-142259-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-locserviceamplify-dev-142259-deployment",
+      "UnauthRoleName": "amplify-locserviceamplify-dev-142259-unauthRole",
+      "StackName": "amplify-locserviceamplify-dev-142259",
+      "StackId": "arn:aws:cloudformation:eu-west-1:611812630693:stack/amplify-locserviceamplify-dev-142259/f86d88f0-4e8f-11eb-86d6-06fb9198ab4b",
+      "AmplifyAppId": "dasq0y5283baz"
+    },
+    "categories": {
+      "auth": {
+        "locserviceamplify8dadef3f": {}
+      }
+    }
+  }
+}

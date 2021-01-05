@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "locserviceamplify8dadef3f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "projectName": "locServiceAmplify",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "build",
+      "BuildCommand": "react-scripts build",
+      "StartCommand": "react-scripts start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
